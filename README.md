@@ -7,7 +7,7 @@
   <img height="180em" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioantnio&layout=compact&theme=dark"/>
 </div>
 
-### Tecnologias usadas:
+### Languages:
 
 <div style="dislpay: inline_block"><br/>
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>

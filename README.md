@@ -1,8 +1,5 @@
 ## Olá, eu sou o Caio 👋🏻
 
-### Tenho 19 anos, curso informática no IFRJ 
-### Atualmente estou desenvolvendo um mapa de conflitos ambientais
-
 ####
 
 ![Caju's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioantnio&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioantnio&hide_progress=true&theme=dark)

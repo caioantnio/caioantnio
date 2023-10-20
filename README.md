@@ -4,7 +4,7 @@
 
 <div align="center">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=caioantnio&show_icons=true&hide=stars,issues&theme=dark">
-  <img height="180em" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioantnio&layout=compact&theme=dark"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioantnio&layout=compact&theme=dark"/>
 </div>
 
 ### Tecnologias usadas:

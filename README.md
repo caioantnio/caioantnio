@@ -1,4 +1,4 @@
-## Olá, eu sou o Caio 👋🏻
+## Oi! Eu sou o Caio 👋🏻
 
 ####
 
@@ -15,4 +15,9 @@
 <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</div>
+
+### Social media:
+<div>
+  <a href="https://instagram.com/wspconno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>

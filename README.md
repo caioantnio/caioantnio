@@ -2,7 +2,10 @@
 
 ####
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+<div align="center">
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=caioantnio&show_icons=true&hide=stars,issues&theme=codeSTACKr&theme=dark">
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioantnio&layout=compact&theme=codeSTACKr&theme=dark"/>
+</div>
 
 ### Tecnologias usadas:
 

@@ -1,8 +1,9 @@
 ## Olá, eu sou o Caio 👋🏻
 
 ####
-
+<div style="display: inline_block", align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+</div>
 
 ### Tecnologias usadas:
 

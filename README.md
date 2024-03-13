@@ -1,4 +1,4 @@
-## sup 👋🏻
+## 👋🏻
 <div align="center">
   <img height="180em" width="53%" src="https://github-readme-stats.vercel.app/api?username=caioantnio&show_icons=true&hide=stars,issues&theme=dark">
   &nbsp;
